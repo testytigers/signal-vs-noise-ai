@@ -2,11 +2,11 @@
 
 > **You're not broken.** You're just standing in a dumpster.
 
-Everyone keeps telling you how amazing apples are. They're everywhere — headlines, courses, influencers, friends. *"You NEED apples in your life!"* they shout. *"Everyone else is eating them!"*
+Everyone keeps telling you how amazing apples are. They're everywhere: headlines, courses, influencers, friends. *"You NEED apples in your life!"* they shout. *"Everyone else is eating them!"*
 
 But every time you try an apple, it tastes rotten. Bitter. Wrong. And you start thinking: *"What's wrong with me?"*
 
-Here's what's actually happening: **You've never found a real green apple.** You've only encountered rotten ones — the kind people throw away because even THEY don't like them. And the people hyping them are either the ones selling dumpster fruit... or they genuinely believe rotten apples are the real deal.
+Here's what's actually happening: **You've never found a real green apple.** You've only encountered rotten ones: the kind people throw away because even THEY don't like them. And the people hyping them are either the ones selling dumpster fruit... or they genuinely believe rotten apples are the real deal.
 
 This is exactly what's happening with AI.
 
@@ -16,14 +16,14 @@ This is exactly what's happening with AI.
 
 | Chapter | What It Covers |
 |---------|---------------|
-| **Chapter 1 — The Landscape** | The shakeout, the crossroads, cloud vs local, why everything feels wrong |
-| **Chapter 2 — The Model Layer** | What LLMs are, giant models, medium models, small models, MoE, cloud pricing |
-| **Chapter 3 — The Hardware Engine** | Engines, RAM vs vRAM, Apple Silicon, bandwidth, the speed formula, real benchmarks |
-| **Chapter 4 — The Optimization Layer** | Quantization, precision scaling, context management, KV cache, compression |
+| **Chapter 1: The Landscape** | The shakeout, the crossroads, cloud vs local, why everything feels wrong |
+| **Chapter 2: The Model Layer** | What LLMs are, giant models, medium models, small models, MoE, cloud pricing |
+| **Chapter 3: The Hardware Engine** | Engines, RAM vs vRAM, Apple Silicon, bandwidth, the speed formula, real benchmarks |
+| **Chapter 4: The Optimization Layer** | Quantization, precision scaling, context management, KV cache, compression |
 
 ---
 
-# Chapter 1: The Landscape — Cloud, Local, and the Great Shakeout
+# Chapter 1: The Landscape: Cloud, Local, and the Great Shakeout
 
 ## 1. The Dumpsters Are Everywhere
 
@@ -50,12 +50,12 @@ So you start questioning yourself:
 
 The AI world is currently running on **rotten apples**. Here's what counts as rotten apples:
 
-- *"AI will replace UX designers!"* — The panic headline. Partially true, partially noise. Rotten.
-- *"AI generates design in 3 seconds!"* — CTOs watching demos, not understanding the work. Rotten.
-- *"Learn the perfect prompt!"* — A dying hobbyist concept sold as career strategy. Rotten.
-- *"This new model is 500x better than everything!"* — Marketing noise. Rotten.
-- *"You need AI in your life or you're obsolete!"* — Urgency manufactured by people selling courses. Rotten.
-- *"AI is going to become sentient and take over!"* — Either fear-mongering or fantasy. Rotten.
+- *"AI will replace UX designers!"*: The panic headline. Partially true, partially noise. Rotten.
+- *"AI generates design in 3 seconds!"*: CTOs watching demos, not understanding the work. Rotten.
+- *"Learn the perfect prompt!"*: A dying hobbyist concept sold as career strategy. Rotten.
+- *"This new model is 500x better than everything!"*: Marketing noise. Rotten.
+- *"You need AI in your life or you're obsolete!"*: Urgency manufactured by people selling courses. Rotten.
+- *"AI is going to become sentient and take over!"*: Either fear-mongering or fantasy. Rotten.
 
 There are two extremes people fall into when it comes to AI.
 
@@ -69,25 +69,25 @@ The truth lives in the middle: some jobs will be eliminated entirely, while othe
 
 **The smartest stance is skepticism paired with action.** Don't believe the hype that AI will replace you. Don't believe the memes that AI is useless. Instead, get in the lab. Try it out. Run a model locally. Write a script. Break something.
 
-**The person who actually experiments beats the person who just fears or just denies.** Because when you touch the technology, you stop guessing what it can do — and you start knowing.
+**The person who actually experiments beats the person who just fears or just denies.** Because when you touch the technology, you stop guessing what it can do: and you start knowing.
 
-**Real AI — the actual useful, powerful, beautiful tool — is a green apple that nobody's handed you yet.**
+**Real AI: the actual useful, powerful, beautiful tool: is a green apple that nobody's handed you yet.**
 
 ### What AI-Generated "Design" Actually Looks Like
 
 You've seen the AI design demos. They're smooth, clean, and completely wrong.
 
-AI-generated interfaces lack the nuance, human understanding, and critical thinking that experienced designers provide. They look superficially legitimate — buttons in the right places, a coherent color palette — but they solve the wrong problems, for the wrong users, with the wrong assumptions baked in.
+AI-generated interfaces lack the nuance, human understanding, and critical thinking that experienced designers provide. They look superficially legitimate: buttons in the right places, a coherent color palette: but they solve the wrong problems, for the wrong users, with the wrong assumptions baked in.
 
-Designers who rely on AI for ideation often feel their creative muscles atrophy. The process stops feeling fulfilling because you're no longer solving — you're curating. And the tools that promise to save time often add more complexity than they remove. Complex design problems don't get simpler with AI. They get more complex, because now you have to think about what the AI *doesn't* understand.
+Designers who rely on AI for ideation often feel their creative muscles atrophy. The process stops feeling fulfilling because you're no longer solving: you're curating. And the tools that promise to save time often add more complexity than they remove. Complex design problems don't get simpler with AI. They get more complex, because now you have to think about what the AI *doesn't* understand.
 
-**Real AI — the actual useful, powerful, beautiful tool — is a green apple that nobody's handed you yet.**
+**Real AI: the actual useful, powerful, beautiful tool: is a green apple that nobody's handed you yet.**
 
 It's sitting in an orchard somewhere, fresh and crisp and sweet. But the dumpster is closer. And more people are yelling from around the dumpster than from around the orchard.
 
 ### Why You Feel Lost
 
-You feel lost because **your instincts are correct**. You tried the apples and they tasted bad. You're not missing something — you're missing the RIGHT apple.
+You feel lost because **your instincts are correct**. You tried the apples and they tasted bad. You're not missing something: you're missing the RIGHT apple.
 
 The people who seem to *"get it"* are either:
 - People who found a slightly less-rotten apple and are pretending it's gourmet
@@ -98,7 +98,7 @@ The people who seem to *"get it"* are either:
 
 ### A Quick Note on Hype
 
-Not all AI hype is rotten. Some of it is just loud. The real problem isn't that people are excited about AI — it's that the loudest voices are selling you rotten fruit while the real innovation happens quietly in the background. Your job is learning to taste the difference.
+Not all AI hype is rotten. Some of it is just loud. The real problem isn't that people are excited about AI: it's that the loudest voices are selling you rotten fruit while the real innovation happens quietly in the background. Your job is learning to taste the difference.
 
 Think about it this way: when someone tells you *"AI is the future,"* that might just be enthusiasm. When someone tells you *"you're going to lose your job in 3 months unless you buy my $200 AI course,"* that's someone trying to sell you something. The difference matters. And you can tell the difference once you start understanding what AI actually is.
 
@@ -108,7 +108,7 @@ Think about it this way: when someone tells you *"AI is the future,"* that might
 
 Let's be honest about what's happening in the AI market right now.
 
-The big companies — the ones selling the rotten apples — they know the game is changing. They see that the real value isn't in the apples themselves. It's in the **infrastructure** around the apples.
+The big companies: the ones selling the rotten apples: they know the game is changing. They see that the real value isn't in the apples themselves. It's in the **infrastructure** around the apples.
 
 ### What the Market Is Shifting From → To
 
@@ -120,7 +120,7 @@ The big companies — the ones selling the rotten apples — they know the game 
 
 You don't need to be the biggest company. You just need to understand that the game has changed.
 
-The prompt-engineering influencers? They're teaching you how to hold an apple. That's a dying skill. The real skill — the skill that actually matters — is learning how to **orchestrate the whole system**. From building the tool to deploying it to automating the workflow.
+The prompt-engineering influencers? They're teaching you how to hold an apple. That's a dying skill. The real skill: the skill that actually matters: is learning how to **orchestrate the whole system**. From building the tool to deploying it to automating the workflow.
 
 ### The Prompt Engineering Wall
 
@@ -130,37 +130,37 @@ When you type a prompt into ChatGPT, you're asking it to guess what you want. An
 
 But here's the problem: **the models are getting better at following instructions on their own.** You don't need elaborate prompts anymore. A simple, clear request works just as well as a three-page prompt template.
 
-The people who made money selling prompt courses? Those courses are becoming worthless. Not because prompt engineering was useless — but because it was a temporary solution to a problem that's now being solved better by the models themselves.
+The people who made money selling prompt courses? Those courses are becoming worthless. Not because prompt engineering was useless: but because it was a temporary solution to a problem that's now being solved better by the models themselves.
 
 **The real value isn't in the prompt. It's in the system around it.** The tools you give the AI. The skills you teach it. The loop you build. The verification you add. That's what matters now.
 
 ---
 
-## 3. The Crossroads — Two Paths
+## 3. The Crossroads: Two Paths
 
 Now that you know the rotten apples exist, you need to make the most important decision of your AI journey: **how will you use AI?**
 
 There are two paths. Just two. Everything else is just noise.
 
-### Path 1: Cloud AI — Renting
+### Path 1: Cloud AI: Renting
 
-When you use ChatGPT, Claude, or Gemini, you're renting someone else's AI. It's like living in a rental apartment — you have access, but you don't own anything.
+When you use ChatGPT, Claude, or Gemini, you're renting someone else's AI. It's like living in a rental apartment: you have access, but you don't own anything.
 
 **The Good:**
 - It's always ready and waiting
-- They have the biggest selection — thousands of models
+- They have the biggest selection: thousands of models
 - No effort required on your part
 - They handle all the maintenance
 
 **The Bad:**
-- **When you stop paying, the service stops.** No subscription, no AI. Your access is entirely at their mercy. Every month, every year, as long as you keep paying — the moment you stop, everything shuts off.
+- **When you stop paying, the service stops.** No subscription, no AI. Your access is entirely at their mercy. Every month, every year, as long as you keep paying: the moment you stop, everything shuts off.
 - **You can't take it home.** Your conversations go to their servers. Your data lives on their shelves.
 - **They can change the rules.** Today you can use any model. Tomorrow they might restrict certain ones. Or raise prices. Or close the store.
 - **They cost money.** Every model call costs something. Some models cost $20–$100 per month. Multiply that by how often you use them. Multiply that by how many years.
 - **You need their store open.** No internet? No AI. Outage? No AI.
-- **They can resell your data.** Your prompts, your conversations, your ideas — all potentially used to train their next product.
+- **They can resell your data.** Your prompts, your conversations, your ideas: all potentially used to train their next product.
 
-### Path 2: Local AI — Your Own Machine
+### Path 2: Local AI: Your Own Machine
 
 When you run AI on your own computer, you're running it on your own machine. You get the model, you control it, you own it.
 
@@ -169,7 +169,7 @@ When you run AI on your own computer, you're running it on your own machine. You
 - **Free to use.** Once you have it, no one charges you per model call.
 - **Always available.** No internet needed. No outages.
 - **You control the rules.** No one can take it away. No one can shut you down.
-- **Your data stays yours.** Medical information, financial data, legal questions — all stay on your machine.
+- **Your data stays yours.** Medical information, financial data, legal questions: all stay on your machine.
 
 **The Bad:**
 - **You need the hardware.** A decent computer with enough RAM.
@@ -180,8 +180,8 @@ When you run AI on your own computer, you're running it on your own machine. You
 
 **Run local for the repetitive stuff, pay for the heavy lifting.** The smartest workflow uses both paths for different purposes:
 
-- **Run local for repetitive, automatable tasks:** SEO keyword research, blog post writing, continuous web search, document analysis, building reports, scraping data. These are workflows you can automate — set them up once, let them run continuously on your own machine. No monthly fees, no rate limits, no privacy concerns.
-- **Pay for cloud for heavy planning and building:** When you need massive models for strategic decisions, complex architecture planning, or building your agents and validating your workflows — that's when you use cloud AI. Heavy models are worth paying for when you need their superior reasoning for critical tasks.
+- **Run local for repetitive, automatable tasks:** SEO keyword research, blog post writing, continuous web search, document analysis, building reports, scraping data. These are workflows you can automate: set them up once, let them run continuously on your own machine. No monthly fees, no rate limits, no privacy concerns.
+- **Pay for cloud for heavy planning and building:** When you need massive models for strategic decisions, complex architecture planning, or building your agents and validating your workflows: that's when you use cloud AI. Heavy models are worth paying for when you need their superior reasoning for critical tasks.
 
 The key insight: **don't pay for every click.** Automate the repetitive stuff locally. Reserve cloud AI for the moments when you actually need a 1-trillion-parameter model to think through something complex.
 
@@ -189,23 +189,23 @@ The key insight: **don't pay for every click.** Automate the repetitive stuff lo
 
 The rapid proliferation of AI tools creates an overwhelming environment. Every week there's a new tool, a new prompt format, a new workflow. For designers trying to stay current, this is exhausting.
 
-There's a risk of focusing on tool operation over strategic thinking — the core of what UX designers do: research, understanding user psychology, strategic thinking. When you spend more time learning how to operate a new AI tool than thinking about your users, you've swapped depth for surface.
+There's a risk of focusing on tool operation over strategic thinking: the core of what UX designers do: research, understanding user psychology, strategic thinking. When you spend more time learning how to operate a new AI tool than thinking about your users, you've swapped depth for surface.
 
-The balance matters: integrate AI where it helps (ideation, prototyping, pattern generation) but never sacrifice the critical thinking that makes you irreplaceable — your ability to understand humans.
+The balance matters: integrate AI where it helps (ideation, prototyping, pattern generation) but never sacrifice the critical thinking that makes you irreplaceable: your ability to understand humans.
 
 ### The Money Math
 
-Let's be honest about when the math works — and when it doesn't.
+Let's be honest about when the math works: and when it doesn't.
 
 **The math works beautifully for light workflows:** SEO keyword research, blog post writing, document automation, scraping, report building. A medium or small model on your own machine will handle these tasks effortlessly and save you a ton of money compared to paid solutions like n8n, Claude subscriptions, or ChatGPT Pro.
 
-But **the math doesn't work well for development yet.** The best coding models right now are heavyweights — 500 billion parameters and up. Kimi 3, for example, has 2.8 trillion parameters and performs at the same level as GPT-5. To run a model like that, you'd need an investment of around $50,000 in hardware. That's a massive upfront cost.
+But **the math doesn't work well for development yet.** The best coding models right now are heavyweights: 500 billion parameters and up. Kimi 3, for example, has 2.8 trillion parameters and performs at the same level as GPT-5. To run a model like that, you'd need an investment of around $50,000 in hardware. That's a massive upfront cost.
 
-For an SaaS company that would otherwise spend thousands per month on Claude API subscriptions, that $50k investment makes sense — it's a long-term play that saves money over time. But for an individual or small team? It's not feasible.
+For an SaaS company that would otherwise spend thousands per month on Claude API subscriptions, that $50k investment makes sense: it's a long-term play that saves money over time. But for an individual or small team? It's not feasible.
 
 **The practical reality:** Use a medium model locally for everything it can handle (and that's a lot). Pay for a heavy cloud model when you genuinely need it for development or complex tasks. Don't try to force a local model to do something it wasn't designed for.
 
-### Privacy — The Hidden Benefit
+### Privacy: The Hidden Benefit
 
 This is the part nobody talks about enough: **your conversations with cloud AI are not private.** Not really.
 
@@ -219,13 +219,13 @@ For most people, the privacy benefit alone is worth the effort of setting up loc
 
 ---
 
-# Chapter 2: The Model Layer — What LLMs Are, Model Sizes, and MoE
+# Chapter 2: The Model Layer: What LLMs Are, Model Sizes, and MoE
 
 ## 4. What Is an LLM?
 
 An **LLM** (Large Language Model) is a system trained to predict the next piece of text. That's it. That's all it does.
 
-Think of it like this: when you read *"The sky is blue, but the grass is ___,"* your brain instantly fills in *"green."* An LLM does something similar — but instead of using your brain, it uses a mathematical map built from reading almost everything on the internet.
+Think of it like this: when you read *"The sky is blue, but the grass is ___,"* your brain instantly fills in *"green."* An LLM does something similar: but instead of using your brain, it uses a mathematical map built from reading almost everything on the internet.
 
 ### The Model Sizes
 
@@ -245,13 +245,13 @@ Models are measured in **billions of connections** (called *"parameters"*). More
 
 Let me explain what happens when a model is trained, because understanding this helps you understand why models behave the way they do.
 
-First, you take almost everything on the internet — books, websites, articles, code, conversations — and you feed it into the model. The model reads everything. It doesn't understand it the way you do. It doesn't have opinions. It doesn't have beliefs. It just... reads.
+First, you take almost everything on the internet: books, websites, articles, code, conversations: and you feed it into the model. The model reads everything. It doesn't understand it the way you do. It doesn't have opinions. It doesn't have beliefs. It just... reads.
 
 Then, the model starts playing a game with itself. The game is simple: **predict the next word.**
 
 The model looks at a sentence: *"The cat sat on the ___."* It predicts *"mat."* Then it checks: was that right? The actual next word was *"mat."* So it adjusts its internal connections slightly. It learned.
 
-It does this billions of times. Trillions of times. Each time, it gets slightly better at predicting what comes next. After weeks or months of this, the model has developed a mathematical representation of how language works. Not the way a human understands language — but enough to be useful.
+It does this billions of times. Trillions of times. Each time, it gets slightly better at predicting what comes next. After weeks or months of this, the model has developed a mathematical representation of how language works. Not the way a human understands language: but enough to be useful.
 
 **That's all an LLM is.** A mathematical prediction engine trained on massive amounts of text. It doesn't *"know"* anything. It doesn't *"understand"* anything. But it can predict text so well that it feels like understanding.
 
@@ -261,7 +261,7 @@ Here's the mind-bending part: the model doesn't have knowledge the way you do. I
 
 Think of it like this: imagine you've watched every episode of a TV show a thousand times. You don't have the episodes stored in your head. But if someone asks *"what happened in season 3, episode 7?"*, you can tell them. You've internalized the patterns.
 
-That's what a language model has done — but with text instead of TV shows. It hasn't stored any articles or books. It's internalized the patterns of how language works, how concepts connect to each other, how arguments are structured.
+That's what a language model has done: but with text instead of TV shows. It hasn't stored any articles or books. It's internalized the patterns of how language works, how concepts connect to each other, how arguments are structured.
 
 ### The Limitations
 
@@ -274,9 +274,9 @@ Understanding these limitations is the key to using AI effectively. When you kno
 
 ---
 
-## 5. The Giant Models — Cloud-Only Heavyweights
+## 5. The Giant Models: Cloud-Only Heavyweights
 
-These models are so large they can only run on massive cloud server farms. You'll never fit them on your own machine — not yet, anyway.
+These models are so large they can only run on massive cloud server farms. You'll never fit them on your own machine: not yet, anyway.
 
 ### The Heavyweights
 
@@ -290,25 +290,25 @@ These models are so large they can only run on massive cloud server farms. You'l
 
 ### Why These Models Are Special
 
-These models are designed for the most complex tasks — the kind of work that requires deep reasoning, long conversations, and sophisticated multi-step workflows. They're the equivalent of a master chef preparing a five-course meal.
+These models are designed for the most complex tasks: the kind of work that requires deep reasoning, long conversations, and sophisticated multi-step workflows. They're the equivalent of a master chef preparing a five-course meal.
 
 But here's the reality check: **these are cloud-only models.** Even with quantization, a model this big needs more memory than any consumer computer has. Running one locally would cost $50,000+ in hardware.
 
-These are the apples at the exclusive farmers' market — incredible quality, but the price and access put them out of reach for most people. That's fine. You don't need them for most tasks.
+These are the apples at the exclusive farmers' market: incredible quality, but the price and access put them out of reach for most people. That's fine. You don't need them for most tasks.
 
 ### Why You Should Care
 
-Knowing these exist matters because they're the ceiling. They show you what's possible when you remove hardware constraints. The models you can actually run locally will never match these, but they're getting closer — and for 80% of everyday tasks, they're already good enough.
+Knowing these exist matters because they're the ceiling. They show you what's possible when you remove hardware constraints. The models you can actually run locally will never match these, but they're getting closer: and for 80% of everyday tasks, they're already good enough.
 
 The gap between what's possible in the cloud and what you can do locally is narrowing. Understanding that gap helps you decide when to use each.
 
 ---
 
-## 6. The Sweet Spot — Medium Models
+## 6. The Sweet Spot: Medium Models
 
 This is where most people should start.
 
-Medium models — 27B to 35B parameters — are the workhorse of local AI. They can write code, summarize documents, reason through problems, and automate workflows. They're big enough to be genuinely useful, small enough to run on consumer hardware.
+Medium models: 27B to 35B parameters: are the workhorse of local AI. They can write code, summarize documents, reason through problems, and automate workflows. They're big enough to be genuinely useful, small enough to run on consumer hardware.
 
 ### The Medium Model Collection
 
@@ -320,7 +320,7 @@ Medium models — 27B to 35B parameters — are the workhorse of local AI. They 
 
 ### The Active Parameters Trick
 
-A 35B model doesn't use all 35 billion parameters for every response. If it's an MoE (Mixture of Experts) model, only a subset activates for each request. A "35B model" that uses only 3B active parameters runs like a much smaller model — but with the quality potential of a 35B model.
+A 35B model doesn't use all 35 billion parameters for every response. If it's an MoE (Mixture of Experts) model, only a subset activates for each request. A "35B model" that uses only 3B active parameters runs like a much smaller model: but with the quality potential of a 35B model.
 
 This is what makes medium models so powerful. The total model has deep knowledge. Each individual response only uses the relevant part of it.
 
@@ -335,7 +335,7 @@ This is what makes medium models so powerful. The total model has deep knowledge
 
 - Write and debug code in multiple languages
 - Summarize long documents and extract key points
-- Generate creative content — essays, blog posts, marketing copy
+- Generate creative content: essays, blog posts, marketing copy
 - Analyze data and identify patterns
 - Translate between languages
 - Answer questions, explain concepts, solve problems
@@ -344,9 +344,9 @@ For most people, a medium model is all they need.
 
 ---
 
-## 7. The Lightweight Models — Small and Fast
+## 7. The Lightweight Models: Small and Fast
 
-Small models — 2B to 9B parameters — are the sprinters of AI. They won't win a marathon, but they'll get you across the finish line in record time.
+Small models: 2B to 9B parameters: are the sprinters of AI. They won't win a marathon, but they'll get you across the finish line in record time.
 
 ### The Small Model Collection
 
@@ -380,7 +380,7 @@ Here's something most people don't realize: **smaller models are faster to train
 
 - You can train a small model on your own data in hours, not weeks
 - You can fine-tune a model to specialize in your niche domain without a supercomputer
-- You can iterate quickly — train, test, refine, repeat
+- You can iterate quickly: train, test, refine, repeat
 
 ### Outperforming Giants in Niches
 
@@ -388,7 +388,7 @@ This is the most important point: **a smaller model trained on high-quality, spe
 
 Think about it: a 9B model trained exclusively on medical literature will give better medical advice than a 2.8 trillion-parameter model trained on everything on the internet. The specialized model has deep, focused knowledge in its area. The giant model has broad, shallow knowledge everywhere.
 
-This is why fine-tuning exists. Why domain-specific models matter. Why you don't always need the biggest model — you need the *right* model for your task.
+This is why fine-tuning exists. Why domain-specific models matter. Why you don't always need the biggest model: you need the *right* model for your task.
 
 ### Match the Model to the Job
 
@@ -396,11 +396,11 @@ Don't use a 35B model to translate a sentence. Don't use a 9B model to write a t
 
 ---
 
-## 8. Mixture of Experts (MoE) — The Team That Only Shows Up When Needed
+## 8. Mixture of Experts (MoE): The Team That Only Shows Up When Needed
 
 Now for one of the most important concepts in modern AI. The thing that makes medium-sized models so powerful. The thing that lets a 35B model act like a much smaller one.
 
-**Mixture of Experts — or MoE.**
+**Mixture of Experts: or MoE.**
 
 ### The Team Analogy
 
@@ -430,14 +430,14 @@ Here's how it works:
 | Simpler architecture | More complex but more efficient |
 | Examples: Qwen 3.6-27B, Llama 3.1 8B | Examples: Qwen 3.6-35B-A3B, Gemma 4-26B-A4B |
 
-**This is the technology that's making local AI actually usable.** Without MoE, most medium and large models would be impossible to run on consumer hardware. The active parameters are what you actually pay for in compute — the rest of the model sits idle until it's needed.
+**This is the technology that's making local AI actually usable.** Without MoE, most medium and large models would be impossible to run on consumer hardware. The active parameters are what you actually pay for in compute: the rest of the model sits idle until it's needed.
 
 ### Why MoE Matters for Local AI
 
 MoE is the reason you can run a *"35B"* model on your laptop. Even though the total model has 35 billion connections, only 3 billion are active for each response. That means:
-- **Faster** — Less computation per response
-- **More efficient** — You get the quality of a big model without the cost
-- **More practical** — Fits on consumer hardware
+- **Faster**: Less computation per response
+- **More efficient**: You get the quality of a big model without the cost
+- **More practical**: Fits on consumer hardware
 
 ### The Router Explained
 
@@ -449,17 +449,17 @@ For example:
 - If you're writing a **creative story**, the creative-writing experts take over
 - If you're asking for a **translation**, the language-transfer experts activate
 
-The router itself is tiny — just a few layers of neural network. It takes maybe 5% of the computation. But it lets the model use only the experts it needs, which saves the rest.
+The router itself is tiny: just a few layers of neural network. It takes maybe 5% of the computation. But it lets the model use only the experts it needs, which saves the rest.
 
 ---
 
-## 9. Cloud Pricing — The Hidden Cost of Running Someone Else's Models
+## 9. Cloud Pricing: The Hidden Cost of Running Someone Else's Models
 
 While you're exploring local models, you should know what the major cloud providers are charging.
 
 ### The Estimated Cloud Model Sizes
 
-> **⚠️ These parameter counts are public speculation, not officially confirmed by their makers.** No one outside the labs can verify these numbers — not even the companies themselves. Listed for reference only.
+> **⚠️ These parameter counts are public speculation, not officially confirmed by their makers.** No one outside the labs can verify these numbers: not even the companies themselves. Listed for reference only.
 
 | Model | Total Size (Speculated) | Active Params (Speculated) | Company |
 |-------|------------------------|---------------------------|---------|
@@ -476,7 +476,7 @@ Gemini Advanced: $20/month
 
 **Total: $60/month, or $720/year.** For cloud models you can't take home and whose data you can't keep.
 
-But that's just the subscriptions. If you use the models through their APIs — the way developers do — the costs add up even faster. OpenAI's API charges per token. For heavy users, that can mean hundreds of dollars per month.
+But that's just the subscriptions. If you use the models through their APIs: the way developers do: the costs add up even faster. OpenAI's API charges per token. For heavy users, that can mean hundreds of dollars per month.
 
 ### The Real Cost Equation
 
@@ -486,7 +486,7 @@ Let's do the math for someone who uses AI regularly:
 
 **The break-even point for local AI is usually 3–6 months.** After that, every month is free. And the privacy advantage compounds with every conversation you have.
 
-### API Pricing — The Sneaky Cost
+### API Pricing: The Sneaky Cost
 
 If you're a developer or run a business, API pricing is where cloud costs really add up:
 
@@ -496,15 +496,15 @@ If you're a developer or run a business, API pricing is where cloud costs really
 | Anthropic Claude | $3.00 | $15.00 |
 | Google Gemini | $0.50 | $2.50 |
 
-That $0.50 per million tokens sounds cheap — until you realize a typical conversation might use 1,000–5,000 tokens per turn. Process 10,000 conversations a day, and you're looking at significant costs.
+That $0.50 per million tokens sounds cheap: until you realize a typical conversation might use 1,000–5,000 tokens per turn. Process 10,000 conversations a day, and you're looking at significant costs.
 
 Local AI? Those same 10,000 conversations cost nothing extra. The model is already loaded. The only cost is electricity.
 
 ---
 
-# Chapter 3: The Hardware Engine — RAM, vRAM, Bandwidth, and Apple Silicon
+# Chapter 3: The Hardware Engine: RAM, vRAM, Bandwidth, and Apple Silicon
 
-## 10. The Engine — What Actually Runs the Model
+## 10. The Engine: What Actually Runs the Model
 
 Let's talk about what happens after you pick your model.
 
@@ -518,15 +518,15 @@ By itself, it does nothing. It can't think. It can't respond. It can't do anythi
 
 ### The Engine Does Three Things
 
-1. **Loads the model** — Reads the frozen list of numbers into memory
-2. **Receives your input** — Takes your text, converts it to numbers (tokens)
-3. **Runs the prediction** — Uses the model's numbers to predict what comes next, generating a response
+1. **Loads the model**: Reads the frozen list of numbers into memory
+2. **Receives your input**: Takes your text, converts it to numbers (tokens)
+3. **Runs the prediction**: Uses the model's numbers to predict what comes next, generating a response
 
 ### Why the Engine Matters
 
-Different engines handle this process differently. Some are faster. Some use less memory. Some work better with certain models. Choosing the right engine is like choosing the right kitchen tools — it doesn't change the model, but it changes how well you can work with it.
+Different engines handle this process differently. Some are faster. Some use less memory. Some work better with certain models. Choosing the right engine is like choosing the right kitchen tools: it doesn't change the model, but it changes how well you can work with it.
 
-### llama.cpp — The Structural Savior
+### llama.cpp: The Structural Savior
 
 Created by Georgi Gerganov to bypass massive corporate software dependencies. Written in pure, lightweight C/C++ to run directly on consumer hardware.
 
@@ -534,7 +534,7 @@ Created by Georgi Gerganov to bypass massive corporate software dependencies. Wr
 
 It's the engine block. Ollama is the car built around it. You could build your own car (use llama.cpp directly), or you could buy a car with nice seats and a working radio (use Ollama).
 
-### Ollama — The Friendly Front-End
+### Ollama: The Friendly Front-End
 
 Ollama wraps llama.cpp into clean, automated background processes. It handles:
 - Model downloads with a single command
@@ -542,7 +542,7 @@ Ollama wraps llama.cpp into clean, automated background processes. It handles:
 - API endpoints (so apps can talk to your model)
 - Automatic updates and management
 
-**With one command — `ollama run llama3` — you have a working AI model on your computer.** No configuration files. No complex setup. Just one command.
+**With one command: `ollama run llama3`: you have a working AI model on your computer.** No configuration files. No complex setup. Just one command.
 
 ### Which Should You Use?
 
@@ -558,7 +558,7 @@ Ollama wraps llama.cpp into clean, automated background processes. It handles:
 
 ---
 
-## 11. RAM vs vRAM — The Two Types of Memory
+## 11. RAM vs vRAM: The Two Types of Memory
 
 Now for the question every guide avoids: **Can your computer actually hold this model?**
 
@@ -566,7 +566,7 @@ This is where most people get stuck. They read about amazing AI models and try t
 
 But it's not the AI that's broken. It's the memory.
 
-### System RAM — The Big Warehouse
+### System RAM: The Big Warehouse
 
 Your computer's regular memory (RAM). It's huge but slower. It handles:
 - Your operating system
@@ -576,7 +576,7 @@ Your computer's regular memory (RAM). It's huge but slower. It handles:
 
 Think of it as a big warehouse. It holds everything. But the path from the warehouse to your desk is long and slow.
 
-### GPU vRAM — The Fast Workbench
+### GPU vRAM: The Fast Workbench
 
 Memory inside your graphics card. It's tiny compared to RAM but **much faster**. AI needs speed more than it needs size.
 
@@ -606,19 +606,19 @@ This is why RAM capacity matters more than GPU specs for local AI on consumer ha
 
 ---
 
-## 12. Apple Silicon's Secret Weapon — UMA
+## 12. Apple Silicon's Secret Weapon: UMA
 
 Here's where Apple's M-series chips (M1, M2, M3, M4) change everything.
 
-### Traditional PCs — The Two-Room Problem
+### Traditional PCs: The Two-Room Problem
 
 In regular computers, CPU and GPU have separate memory:
 - **CPU RAM:** ~16–64 GB (shared with the system)
 - **GPU vRAM:** ~4–24 GB (dedicated to graphics)
 
-The two memory pools are separate. If the model doesn't fit in the GPU memory, it spills into the CPU memory — and everything slows down.
+The two memory pools are separate. If the model doesn't fit in the GPU memory, it spills into the CPU memory: and everything slows down.
 
-### Apple Silicon — The One-Room Solution
+### Apple Silicon: The One-Room Solution
 
 **Apple uses Unified Memory Architecture (UMA).** The CPU and GPU share one big pool of memory.
 
@@ -646,7 +646,7 @@ This means:
 
 ---
 
-## 13. The Hardware Budget — What RAM You Actually Have
+## 13. The Hardware Budget: What RAM You Actually Have
 
 Your AI model never gets the entire memory pool. Some is always taken.
 
@@ -686,9 +686,9 @@ The RTX 3060 with 12 GB is the budget king for local AI. It's relatively cheap, 
 
 ---
 
-## 14. Bandwidth — The Speed of Data Flow
+## 14. Bandwidth: The Speed of Data Flow
 
-Memory isn't just about size — it's about speed. And not just speed, but **bandwidth**.
+Memory isn't just about size: it's about speed. And not just speed, but **bandwidth**.
 
 **Bandwidth is how much data can flow from memory to the processor in one second.** Think of it as the width of a highway. A narrow road moves cars one at a time. A highway moves hundreds at once.
 
@@ -712,7 +712,7 @@ Here's the formula that determines how fast your model will respond:
 
 > **Response speed = Memory bandwidth ÷ Model size (in GB)**
 
-So a 22 GB model on a machine with 270 GB/s bandwidth generates about **12 tokens per second**. That's roughly 8–10 words per second — comfortable reading speed.
+So a 22 GB model on a machine with 270 GB/s bandwidth generates about **12 tokens per second**. That's roughly 8–10 words per second: comfortable reading speed.
 
 A 5 GB model on the same machine? About 54 tokens per second. That's faster than you can read.
 
@@ -720,15 +720,15 @@ A 5 GB model on the same machine? About 54 tokens per second. That's faster than
 
 The model needs to read all of its numbers every time it generates a token. A 22 GB model needs 22 GB of data flowing through the memory bus for each step. If the bus can handle 270 GB/s, the model can process about 12 steps per second. Each step produces one token.
 
-This is why bandwidth matters more than CPU or GPU speed for inference. The bottleneck isn't the math — it's getting the data to the math engine fast enough.
+This is why bandwidth matters more than CPU or GPU speed for inference. The bottleneck isn't the math: it's getting the data to the math engine fast enough.
 
 ---
 
-## 15. Real Benchmarks — Numbers That Matter
+## 15. Real Benchmarks: Numbers That Matter
 
 Theory is fine. Let's look at actual numbers from real machines.
 
-### M3 MacBook Pro (16GB) — Q4 Quantized Models
+### M3 MacBook Pro (16GB): Q4 Quantized Models
 
 | Model | Speed (tokens/sec) | Reading Speed |
 |-------|-------------------|---------------|
@@ -737,7 +737,7 @@ Theory is fine. Let's look at actual numbers from real machines.
 | Llama 3.1 8B | ~45–50 t/s | Faster than reading |
 | Gemma 4 12B QAT | ~25–30 t/s | Smooth |
 
-### M2 MacBook Air (8GB) — What Works Here
+### M2 MacBook Air (8GB): What Works Here
 
 | Model | Speed (tokens/sec) | Notes |
 |-------|-------------------|-------|
@@ -745,7 +745,7 @@ Theory is fine. Let's look at actual numbers from real machines.
 | Gemma 4 E4B | ~40+ t/s | Super fast, good for simple tasks |
 | Llama 3.1 8B | ~20–25 t/s | Solid everyday model |
 
-### M3 Mac Studio (192GB) — The Beast
+### M3 Mac Studio (192GB): The Beast
 
 | Model | Speed (tokens/sec) | Notes |
 |-------|-------------------|-------|
@@ -767,17 +767,17 @@ So if you see a benchmark saying *"137 t/s,"* that means the model generates rou
 ### What Reading Speed Looks Like
 
 Different speeds feel very different:
-- **2–3 t/s** — Frustratingly slow. You'll want to cancel the generation.
-- **5–7 t/s** — Usable but sluggish. You'll start second-guessing your prompts.
-- **8–12 t/s** — Comfortable. Feels natural, like talking to someone.
-- **15–25 t/s** — Smooth and responsive. Feels like magic.
-- **30+ t/s** — Blazing. Faster than you can read. Feels instant.
+- **2–3 t/s**: Frustratingly slow. You'll want to cancel the generation.
+- **5–7 t/s**: Usable but sluggish. You'll start second-guessing your prompts.
+- **8–12 t/s**: Comfortable. Feels natural, like talking to someone.
+- **15–25 t/s**: Smooth and responsive. Feels like magic.
+- **30+ t/s**: Blazing. Faster than you can read. Feels instant.
 
 ---
 
-# Chapter 4: The Optimization Layer — Making Models Fit and Run Faster
+# Chapter 4: The Optimization Layer: Making Models Fit and Run Faster
 
-## 16. Quantization — The Shrink Ray
+## 16. Quantization: The Shrink Ray
 
 You've learned about model sizes. You've learned about RAM limits. Now you need a way to make big models fit on small machines.
 
@@ -789,7 +789,7 @@ Quantization means **reducing the precision of the numbers** in a model. It's th
 
 ### The Photo Analogy
 
-Imagine you have a high-resolution photo. It's beautiful, but it takes up a lot of space. If you compress it to 80% quality, it looks nearly identical to the original — just much smaller.
+Imagine you have a high-resolution photo. It's beautiful, but it takes up a lot of space. If you compress it to 80% quality, it looks nearly identical to the original: just much smaller.
 
 **That's quantization.** You're reducing the precision of the numbers, which makes the model file smaller, while keeping most of the quality intact.
 
@@ -823,15 +823,15 @@ A 35B model in FP16 needs about 70 GB of RAM. With Q4 quantization, it needs abo
 
 Here's what happens when you quantize: the model's internal numbers get rounded to fewer decimal places. It's like going from *"the temperature is exactly 72.483 degrees"* to *"the temperature is about 72 degrees."*
 
-For most tasks, the rounding doesn't matter. The model still knows what it's talking about. But for very precise tasks — like mathematical reasoning or complex logic — you might notice a slight degradation in accuracy at lower quantization levels.
+For most tasks, the rounding doesn't matter. The model still knows what it's talking about. But for very precise tasks: like mathematical reasoning or complex logic: you might notice a slight degradation in accuracy at lower quantization levels.
 
 This is why **Q4 is the sweet spot**: the quality loss is barely noticeable for everyday tasks, but the size savings are massive.
 
 ---
 
-## 17. Context Management — How Much Can the Model Remember?
+## 17. Context Management: How Much Can the Model Remember?
 
-AI models don't remember everything you say forever. They have a **context window** — a limit on how much text they can keep in memory at once.
+AI models don't remember everything you say forever. They have a **context window**: a limit on how much text they can keep in memory at once.
 
 Think of it like a conversation. You can remember a few paragraphs back. But if someone goes back to something they said 30 minutes ago, you can't remember it without being told again.
 
@@ -845,7 +845,7 @@ AI models work the same way. If the context window is 8K tokens, the model can o
 | Medium models (27B–35B) | 32K–128K tokens | ~24,000–96,000 words |
 | Giant models (70B+) | 128K–200K tokens | ~100,000+ words |
 
-### The KV Cache — Memory for Memory
+### The KV Cache: Memory for Memory
 
 Here's something most people don't understand: **every token the model processes takes up memory.** This memory is called the **KV Cache** (Key-Value Cache).
 
@@ -855,23 +855,23 @@ As the conversation gets longer, the KV cache grows. If the conversation gets to
 
 Here's what this means in practice:
 
-- **Short conversations** (under 10 turns) — No issues. Everything runs smoothly.
-- **Medium conversations** (10–50 turns) — The model remembers most of what was said. Good for most use cases.
-- **Long conversations** (50+ turns) — The KV cache grows large. You might start running out of RAM. The model might begin forgetting earlier parts of the conversation.
+- **Short conversations** (under 10 turns): No issues. Everything runs smoothly.
+- **Medium conversations** (10–50 turns): The model remembers most of what was said. Good for most use cases.
+- **Long conversations** (50+ turns): The KV cache grows large. You might start running out of RAM. The model might begin forgetting earlier parts of the conversation.
 
 **The workaround:** If you're doing a long conversation and start running low on RAM, summarize the earlier parts and paste the summary back into the conversation. The model now has the key information without needing to store every single word.
 
 ### Context Window vs Memory
 
 The context window and the KV cache are related but different:
-- **Context window** is the *limit* — how much the model can handle at once
-- **KV cache** is the *cost* — how much memory it takes to use that limit
+- **Context window** is the *limit*: how much the model can handle at once
+- **KV cache** is the *cost*: how much memory it takes to use that limit
 
 A model with a 128K context window might use 5 GB of RAM just for the KV cache when you're at the limit. That's a big deal if you only have 32 GB total.
 
 ---
 
-## 18. Compression — Getting More Out of Less
+## 18. Compression: Getting More Out of Less
 
 Beyond quantization, there are other compression techniques.
 
@@ -879,13 +879,13 @@ Beyond quantization, there are other compression techniques.
 
 When a model processes your input text, it converts it into numbers (embeddings). These can take up a lot of memory, especially for long inputs.
 
-**Embedding compression** reduces the precision of these numbers without significantly affecting quality. It's like compressing a video — you lose a little quality, but the file shrinks dramatically.
+**Embedding compression** reduces the precision of these numbers without significantly affecting quality. It's like compressing a video: you lose a little quality, but the file shrinks dramatically.
 
 ### Paged Attention
 
 **Paged Attention** is a technique borrowed from operating systems. Just like your computer uses a hard drive as *"virtual RAM,"* Paged Attention lets the model use disk storage as *"virtual memory"* for the KV cache.
 
-This means longer conversations are possible without running out of RAM. The trade-off is speed — reading from disk is slower than reading from RAM. But it's better than running out of memory entirely.
+This means longer conversations are possible without running out of RAM. The trade-off is speed: reading from disk is slower than reading from RAM. But it's better than running out of memory entirely.
 
 ### Speculative Decoding
 
@@ -932,16 +932,16 @@ The result is faster responses without any loss in quality. It's like having a s
 
 ## 22. Key Concepts Summary
 
-1. **What LLMs do** — Predict the next word, trained on everything on the internet
-2. **Model sizes** — 2B to 1T+, more parameters = more capacity
-3. **MoE** — Only use the relevant experts, get big quality with small cost
-4. **Cloud vs local** — Cloud is convenient, local is private and free
-5. **RAM vs vRAM** — The two types of memory and why they matter
-6. **Apple Silicon advantage** — One memory pool instead of two
-7. **The speed formula** — Bandwidth divided by model size
-8. **What agents do** — Plan, act, observe, repeat
-9. **Why agents fail** — They can't verify their own work
-10. **Skills vs tools** — Skills teach, tools execute
+1. **What LLMs do**: Predict the next word, trained on everything on the internet
+2. **Model sizes**: 2B to 1T+, more parameters = more capacity
+3. **MoE**: Only use the relevant experts, get big quality with small cost
+4. **Cloud vs local**: Cloud is convenient, local is private and free
+5. **RAM vs vRAM**: The two types of memory and why they matter
+6. **Apple Silicon advantage**: One memory pool instead of two
+7. **The speed formula**: Bandwidth divided by model size
+8. **What agents do**: Plan, act, observe, repeat
+9. **Why agents fail**: They can't verify their own work
+10. **Skills vs tools**: Skills teach, tools execute
 
 ---
 
@@ -970,15 +970,15 @@ Check what you have:
 
 # Appendix: The Truth About AI
 
-## 26. Where to Find Real Resources — Free Learning Materials
+## 26. Where to Find Real Resources: Free Learning Materials
 
 The AI world is full of people selling courses, tools, and *"secrets."* But the best resources are free:
 
-- **Hugging Face** — The largest collection of open-source models
-- **llama.cpp** — The engine that makes local AI possible
-- **Ollama** — The easiest way to run models locally
-- **The Paper Library** — arXiv.org for research papers
-- **The GitHub Ecosystem** — Thousands of open-source AI projects
+- **Hugging Face**: The largest collection of open-source models
+- **llama.cpp**: The engine that makes local AI possible
+- **Ollama**: The easiest way to run models locally
+- **The Paper Library**: arXiv.org for research papers
+- **The GitHub Ecosystem**: Thousands of open-source AI projects
 
 You don't need to buy anything. You just need to know where to look.
 
@@ -1006,4 +1006,4 @@ And now you have your own system.
 
 ---
 
-*Written by Nous Research. Built for everyone who wants to understand AI — not just use it.*
+*Written by Nous Research. Built for everyone who wants to understand AI: not just use it.*
