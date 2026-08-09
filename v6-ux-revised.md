@@ -34,52 +34,26 @@ You walk into a room and every single person is talking about apples.
 > *"The apple industry is worth billions!"*
 > *"You're falling behind if you don't own apples!"*
 
-Everyone is shouting. Everyone is excited. Everyone is obsessed.
-
 You try the apples you're offered. And they taste **bad**.
-
-So you start questioning yourself:
-
-> *"Is there something wrong with me?"*
-> *"Am I just bad at tasting?"*
-> *"Maybe I need to take a course on apples?"*
 
 **Here's what nobody tells you:** The apples in that room aren't apples at all. They're rotten.
 
 ### This Is Exactly What's Happening With AI
 
-The AI world is currently running on **rotten apples**. Here's what counts as rotten apples:
+The AI world is running on **rotten apples**:
 
-- *"AI will replace UX designers!"*: The panic headline. Partially true, partially noise. Rotten.
+- *"AI will replace UX designers!"*: Panic headline. Rotten.
 - *"AI generates design in 3 seconds!"*: CTOs watching demos, not understanding the work. Rotten.
-- *"Learn the perfect prompt!"*: A dying hobbyist concept sold as career strategy. Rotten.
+- *"Learn the perfect prompt!"*: Dying hobbyist concept sold as career strategy. Rotten.
 - *"This new model is 500x better than everything!"*: Marketing noise. Rotten.
-- *"You need AI in your life or you're obsolete!"*: Urgency manufactured by people selling courses. Rotten.
-- *"AI is going to become sentient and take over!"*: Either fear-mongering or fantasy. Rotten.
+- *"You need AI in your life or you're obsolete!"*: Urgency manufactured by course sellers. Rotten.
+- *"AI is going to become sentient and take over!"*: Fear-mongering or fantasy. Rotten.
 
-There are two extremes people fall into when it comes to AI.
+People split into two camps. **The fearful** believe AI will replace most jobs. **The complacent** share memes about AI hallucinations and convince themselves their job is safe forever. Both are wrong.
 
-**The fearful** believe AI will replace most jobs, including their own. It keeps them up at night.
-
-**The complacent** share memes about AI hallucinations and tell themselves their job is safe forever. They laugh at the memes, then later justify every round of layoffs as "just the economy," never connecting the dots.
-
-The truth lives in the middle: some jobs will be eliminated entirely, while others will evolve alongside AI.
-
-**Here's the thing about both camps: they start with a belief.** The fearful believe they're obsolete before they've tried anything. The complacent believe they're untouchable without ever engaging with the technology. And belief without evidence is a recipe for poor decisions.
-
-**The smartest stance is skepticism paired with action.** Don't believe the hype that AI will replace you. Don't believe the memes that AI is useless. Instead, get in the lab. Try it out. Run a model locally. Write a script. Break something.
+**The truth lives in the middle.** Some jobs will be eliminated. Others will evolve. The smartest stance is skepticism paired with action. Don't believe the hype that AI will replace you. Don't believe the memes that AI is useless. Get in the lab. Try it out. Run a model locally. Write a script. Break something.
 
 **The person who actually experiments beats the person who just fears or just denies.** Because when you touch the technology, you stop guessing what it can do and you start knowing.
-
-**Real AI is a fresh green apple** 🍏 that nobody's handed you yet.
-
-### What AI-Generated "Design" Actually Looks Like
-
-You've seen the AI design demos. They're smooth, clean, and completely wrong.
-
-AI-generated interfaces lack the nuance, human understanding, and critical thinking that experienced designers provide. They look superficially legitimate: buttons in the right places, a coherent color palette. But they solve the wrong problems, for the wrong users, with the wrong assumptions baked in.
-
-Designers who rely on AI for ideation often feel their creative muscles atrophy. The process stops feeling fulfilling because you're no longer solving. You're curating. And the tools that promise to save time often add more complexity than they remove. Complex design problems don't get simpler with AI. They get more complex, because now you have to think about what the AI *doesn't* understand.
 
 **Real AI is a fresh green apple** 🍏 that nobody's handed you yet.
 
@@ -106,7 +80,7 @@ Think about it this way: when someone tells you *"AI is the future,"* that might
 
 Let's be honest about what's happening in the AI market right now.
 
-The big companies: the ones selling the rotten apples: they know the game is changing. They see that the real value isn't in the apples themselves. It's in the **infrastructure** around the apples.
+The big companies selling rotten apples know the game is changing. They see that the real value isn't in the apples themselves. It's in the **infrastructure** around the apples.
 
 ### What the Market Is Shifting From → To
 
@@ -118,7 +92,7 @@ The big companies: the ones selling the rotten apples: they know the game is cha
 
 You don't need to be the biggest company. You just need to understand that the game has changed.
 
-The prompt-engineering influencers? They're teaching you how to hold an apple. That's a dying skill. The real skill: the skill that actually matters: is learning how to **orchestrate the whole system**. From building the tool to deploying it to automating the workflow.
+The prompt-engineering influencers? They're teaching you how to hold an apple. That's a dying skill. The real skill: the one that actually matters, is learning how to **orchestrate the whole system**. From building the tool to deploying it to automating the workflow.
 
 ### The Prompt Engineering Wall
 
@@ -197,7 +171,7 @@ Let's be honest about when the math works and when it doesn't.
 
 **The math works beautifully for light workflows:** SEO keyword research, blog post writing, document automation, scraping, report building. A medium or small model on your own machine will handle these tasks effortlessly and save you a ton of money compared to paid solutions like n8n, Claude subscriptions, or ChatGPT Pro.
 
-But **the math doesn't work well for development yet.** The best coding models right now are heavyweights: 500 billion parameters and up. Kimi 3, for example, has 2.8 trillion parameters and performs at the same level as GPT-5. To run a model like that, you'd need an investment of around $50,000 in hardware. That's a massive upfront cost.
+But **the math doesn't work well for development yet.** The best coding models right now are heavyweights: 500 billion parameters and up. Kimi K2.6, for example, has over a trillion parameters and performs at the same level as GPT-5. To run a model like that, you'd need an investment of around $50,000 in hardware. That's a massive upfront cost.
 
 For an SaaS company that would otherwise spend thousands per month on Claude API subscriptions, that $50k investment makes sense. It's a long-term play that saves money over time. But for an individual or small team? It's not feasible.
 
@@ -282,7 +256,7 @@ These models are so large they can only run on massive cloud server farms. You'l
 |-------|-----------|---------------|---------|-------------------|
 | **GLM-5.2** | ~744B (MoE) | Varies | Zhipu AI | Advanced agentic workflows, multi-step reasoning, complex coding |
 | **DeepSeek V4** | 1.6T (MoE) | Varies | DeepSeek | Massive context memory, exceptional math reasoning |
-| **Kimi K2.6** | ~1T+ (MoE) | Varies | Moonshot AI | Long-context documents, visual-to-code, multi-agent coordination |
+| **Kimi K2.6** | ~1T+ (MoE) | Varies | Moonshot AI | Long-context reasoning, multi-agent coordination |
 | **Qwen 3.5–397B** | 397B Total (17B Active) | 17B | Alibaba | Flagship multilingual, coding, lower active compute |
 | **Mistral Large 3** | 675B | — | Mistral AI | Enterprise reasoning, multilingual output |
 
@@ -306,7 +280,7 @@ The gap between what's possible in the cloud and what you can do locally is narr
 
 This is where most people should start.
 
-Medium models: 27B to 35B parameters: are the workhorse of local AI. They can write code, summarize documents, reason through problems, and automate workflows. They're big enough to be genuinely useful, small enough to run on consumer hardware.
+Medium models (27B to 35B parameters) are the workhorse of local AI. They can write code, summarize documents, reason through problems, and automate workflows. They're big enough to be genuinely useful, small enough to run on consumer hardware.
 
 ### The Medium Model Collection
 
@@ -314,7 +288,7 @@ Medium models: 27B to 35B parameters: are the workhorse of local AI. They can wr
 |-------|------|--------------|----------|
 | **Qwen 3.6-27B** | 27B | 27B (dense) | Everyday tasks, coding, analysis |
 | **Qwen 3.6-35B-A3B** | 35B | 3B (MoE) | Complex reasoning, multilingual |
-| **Llama 3.1 32B** | 32B | 32B (dense) | Open-source versatility |
+| **Qwen 3.5-32B** | 32B | 32B (dense) | Open-source versatility |
 
 ### The Active Parameters Trick
 
@@ -344,7 +318,7 @@ For most people, a medium model is all they need.
 
 ## 7. The Lightweight Models: Small and Fast
 
-Small models: 2B to 9B parameters: are the sprinters of AI. They won't win a marathon, but they'll get you across the finish line in record time.
+Small models (2B to 9B parameters) are the sprinters of AI. They won't win a marathon, but they'll get you across the finish line in record time.
 
 ### The Small Model Collection
 
@@ -384,7 +358,7 @@ Here's something most people don't realize: **smaller models are faster to train
 
 This is the most important point: **a smaller model trained on high-quality, specialized data can outperform a massive general-purpose model in a specific domain.**
 
-Think about it: a 9B model trained exclusively on medical literature will give better medical advice than a 2.8 trillion-parameter model trained on everything on the internet. The specialized model has deep, focused knowledge in its area. The giant model has broad, shallow knowledge everywhere.
+Think about it: a smaller model trained on high-quality, specialized data can sometimes give more focused medical advice than a massive general-purpose model. It isn't guaranteed to win, but in a well-defined domain it can be competitive. The specialized model has deep, focused knowledge in its area. The giant model has broad, shallow knowledge everywhere.
 
 This is why fine-tuning exists. Why domain-specific models matter. Why you don't always need the biggest model. You need the *right* model for your task.
 
@@ -474,7 +448,7 @@ Gemini Advanced: $20/month
 
 **Total: $60/month, or $720/year.** For cloud models you can't take home and whose data you can't keep.
 
-But that's just the subscriptions. If you use the models through their APIs: the way developers do: the costs add up even faster. OpenAI's API charges per token. For heavy users, that can mean hundreds of dollars per month.
+But that's just the subscriptions. If you use the models through their APIs, the way developers do, the costs add up even faster. OpenAI's API charges per token. For heavy users, that can mean hundreds of dollars per month.
 
 ### The Real Cost Equation
 
@@ -482,7 +456,7 @@ Let's do the math for someone who uses AI regularly:
 - **Cloud AI:** $20–$100/month in subscriptions + API costs + time spent managing accounts
 - **Local AI:** One-time hardware cost + electricity (basically nothing) + time spent setting it up once
 
-**The break-even point for local AI is usually 3–6 months.** After that, every month is free. And the privacy advantage compounds with every conversation you have.
+**The break-even point depends on your hardware and usage.** A $500 Mac Mini replacing a single $20/month subscription pays for itself in about 25 months. For someone juggling ChatGPT Pro, Claude Pro, and Gemini Advanced at $60/month, a $1,000 machine breaks even in 16–18 months. The real payoff isn't speed of payback; it's that once it pays off, every month after is free and your data stays yours.
 
 ### API Pricing: The Sneaky Cost
 
@@ -522,7 +496,7 @@ By itself, it does nothing. It can't think. It can't respond. It can't do anythi
 
 ### Why the Engine Matters
 
-Different engines handle this process differently. Some are faster. Some use less memory. Some work better with certain models. Choosing the right engine is like choosing the right kitchen tools: it doesn't change the model, but it changes how well you can work with it.
+Different engines handle this process differently. Some are faster. Some use less memory. Some work better with certain models. Choosing the right engine is like choosing the right kitchen tools. It doesn't change the model, but it changes how well you can work with it.
 
 ### llama.cpp: The Structural Savior
 
@@ -614,7 +588,7 @@ In regular computers, CPU and GPU have separate memory:
 - **CPU RAM:** ~16–64 GB (shared with the system)
 - **GPU vRAM:** ~4–24 GB (dedicated to graphics)
 
-The two memory pools are separate. If the model doesn't fit in the GPU memory, it spills into the CPU memory: and everything slows down.
+The two memory pools are separate. If the model doesn't fit in the GPU memory, it spills into the CPU memory, and everything slows down.
 
 ### Apple Silicon: The One-Room Solution
 
@@ -881,9 +855,7 @@ When a model processes your input text, it converts it into numbers (embeddings)
 
 ### Paged Attention
 
-**Paged Attention** is a technique borrowed from operating systems. Just like your computer uses a hard drive as *"virtual RAM,"* Paged Attention lets the model use disk storage as *"virtual memory"* for the KV cache.
-
-This means longer conversations are possible without running out of RAM. The trade-off is speed: reading from disk is slower than reading from RAM. But it's better than running out of memory entirely.
+**Paged Attention** divides the KV cache into small, flexible blocks instead of reserving a fixed chunk of memory for each conversation. This eliminates the fragmentation that wastes GPU memory and lets more conversations fit on the same hardware. The trade-off is slightly more complex memory management. But it's much better than running out of memory entirely.
 
 ### Speculative Decoding
 
@@ -937,9 +909,6 @@ The result is faster responses without any loss in quality. It's like having a s
 5. **RAM vs vRAM:** The two types of memory and why they matter
 6. **Apple Silicon advantage:** One memory pool instead of two
 7. **The speed formula:** Bandwidth divided by model size
-8. **What agents do:** Plan, act, observe, repeat
-9. **Why agents fail:** They can't verify their own work
-10. **Skills vs tools:** Skills teach, tools execute
 
 ---
 
@@ -996,4 +965,4 @@ Here's the truth that nobody tells you: **AI isn't magic.** It's math. It's stat
 
 When you understand how things actually work, you gain something most people never get: **the ability to separate real AI from the hype.**
 
-*Written by Nous Research. Built for everyone who wants to understand AI: not just use it.*
+*Written by testytigers. Built for everyone who wants to understand AI: not just use it.*
